@@ -1,0 +1,20 @@
+{
+  "name": "bee_coin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Riddle",
+  "license": "ISC",
+  "devDependencies": {
+    "openzeppelin-solidity": "github:OpenZeppelin/openzeppelin-solidity#release-v2.1.0-solc-0.5"
+  },
+  "dependencies": {
+    "solc": "^0.5.2"
+  }
+}
