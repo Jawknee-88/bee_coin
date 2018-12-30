@@ -15,6 +15,7 @@
     "openzeppelin-solidity": "github:OpenZeppelin/openzeppelin-solidity#release-v2.1.0-solc-0.5"
   },
   "dependencies": {
+    "ganache-cli": "^6.2.5",
     "solc": "^0.5.2"
   }
 }
