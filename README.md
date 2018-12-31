@@ -2,6 +2,10 @@
 This is a project which defines and deploys an Ethereum ERC-20 token.
 
 ## How To's
+
+### Run tests
+`truffle test`
+
 ### Run local ETH blockchain
 `node_modules/ganache-cli/cli.js`
 
